@@ -1,6 +1,5 @@
-Power-BI-PROJECTS
-A repository for my Power BI projects. Here, you can see the interesting Power BI reports I have worked on. Feel free to download, learn from, and use them for inspiration.
+# Power-BI-PROJECTS
 
-PBI LOGO
+Welcome to the Power BI Projects repository! Here, you will find a collection of interesting Power BI reports I have worked on. Feel free to download, learn from, and use them for inspiration.
 
-Powerbi-logo
+![Power BI Logo](powerbi-logo.png)
